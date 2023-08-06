@@ -1,4 +1,4 @@
-// toogleMode já altera a classe em classList
+// toogle já altera a classe em classList
 function toggleMode() {
   //const ou var são "apelidos"
   const html = document.documentElement
